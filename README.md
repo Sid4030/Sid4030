@@ -3,7 +3,9 @@
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 💡 <em>✏️ A sentence about you and what you do.</em>
+- 💡 <em>✏️ 
+I’m someone who’s always curious and trying to learn more every day — whether it’s about technology, networks, or how things work on the internet. While I’m still discovering myself, I don’t believe in bragging about what I know. Instead, I focus on growing, improving, and understanding the world around me.
+I believe actions speak louder than words(zada english bool di ;-;). So rather than explaining who I am in a paragraph, I’d prefer to show it through the way I work and how I carry myself in real life(ngl thats true mummy kasam)</em>
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
